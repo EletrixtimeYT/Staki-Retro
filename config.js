@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        prefix: '?',
-        token: 'OTI4NjIyMjQ5ODY5NzA5Mzcy.Ydbc3Q._q0JNLrTteFXStmGLSELVTUatEM',
-        playing: '?help | 💗 Par Stasair' 
+        prefix: '!',
+        token: 'YOUR TOKEN',
+        playing: '!help | 💗 By Stasair' 
       
         
     },
