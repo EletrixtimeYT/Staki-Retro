@@ -17,7 +17,7 @@ A musical discord bot developed in Discordjs V13 by [Stasair a French developer 
 
 ## Getting Started
 
-* **Change the token in config.json and your prefix and status so that the bot can start so that the bot can start.**
+* **Change the token in config.js and your prefix and status so that the bot can start so that the bot can start.**
 * **The text is in French you can translate it into English or other**
 
 ## Credit
