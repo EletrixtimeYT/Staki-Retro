@@ -3,7 +3,10 @@
 <h4>EletrixTime : Pour le fun<h4>
 <h4>C est qui a u l iddé<h4>
 <h4>Welltag !<h4>
-
+  ==================================
+<h6>"Le bot sera jamais payent"<h6>
+  
+  
 ====================================
-<button onclick="window.location.href = 'https://www.needgroups.fr/';">Créé par NDG (Anciennement starsair et jsp)</button>
-<h2>Crédit Welltag#1259<h2>
+
+  <h2>Merci a Welltag#1259 d avoir accepté de remettre en route le bot !<h2>
